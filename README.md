@@ -12,4 +12,4 @@ This repository is part of my 90-day public Medical AI journey.
 
 ## Goal
 
-Learn AI/ML publicly while building real Medical AI projects.
+Learn AI/ML publicly while building real Medical AI projects...
